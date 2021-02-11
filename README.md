@@ -1,7 +1,20 @@
 # hookshot-server
 ### Combination 1: Rehook, Automattic/Kue, node-webhooks
+- lambda hits
+
+
 ### Combination 2: AWS SQS
 ### Combination 3: Kafka
+
+## Use cases
+1. Aftership webhook/public webhooks
+2. Core service generic webhooks
+3. Developer Simplicity - Setup & Run in minute without bothering about it at all
+4. Nice UI like Rundesk
+4. Abstraction to developer
+5. Maintainablity and Pluggable storage - Cost for Startups(Linode/Digital Ocean/AWS)
+  - support for in-memory, file storage, redis, rabbitmq, AWS SQS
+6. Vendor Lockin
 
 ### Usage
 Open source event ingestion and dispatch server with minimal design to handle scale and simplicity with cost efficiency
