@@ -3,6 +3,9 @@
 - https://github.com/realadeel/awesome-webhooks
 - https://github.com/CompSciLauren/awesome-webhooks
 
+
+- https://github.com/adnanh/webhook
+
 ### Combination 1: Rehook, Automattic/Kue, node-webhooks
 - lambda hits
 
