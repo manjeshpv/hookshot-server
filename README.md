@@ -3,7 +3,10 @@
 - https://github.com/realadeel/awesome-webhooks
 - https://github.com/CompSciLauren/awesome-webhooks
 
-
+uuid will be generated
+- in parallel
+  - data will be queued 
+  - stored into mongodb for requeuing, debugging etc
 - https://github.com/adnanh/webhook
 
 ### Combination 1: Rehook, Automattic/Kue, node-webhooks
