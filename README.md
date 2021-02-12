@@ -1,4 +1,8 @@
 # hookshot-server
+
+- https://github.com/realadeel/awesome-webhooks
+- https://github.com/CompSciLauren/awesome-webhooks
+
 ### Combination 1: Rehook, Automattic/Kue, node-webhooks
 - lambda hits
 
