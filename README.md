@@ -2,6 +2,8 @@
 
 - https://github.com/realadeel/awesome-webhooks
 - https://github.com/CompSciLauren/awesome-webhooks
+- https://github.com/Automattic/kue
+- https://github.com/OptimalBits/bull
 
 uuid will be generated
 - in parallel
