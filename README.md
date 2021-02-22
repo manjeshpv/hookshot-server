@@ -33,6 +33,7 @@ uuid will be generated
 ## Features:
 -  JSON Rules to filter events at subscribers
 -  JSON Transformermation Pipeline
+-  Components like in https://github.com/jstemmer/rehook/ for subscriptions
 
 ### Usage
 Open source event ingestion and dispatch server with minimal design to handle scale and simplicity with cost efficiency
