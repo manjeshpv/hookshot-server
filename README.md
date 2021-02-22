@@ -16,6 +16,10 @@ uuid will be generated
 ### Combination 2: AWS SQS
 ### Combination 3: Kafka
 
+### Approach: Kannel
+- Write events to table: kannel_queue
+- upon success write the data to table: kannel_logs and delete from  kannel_queue
+
 ## Use cases
 1. Aftership webhook/public webhooks
 2. Core service generic webhooks
