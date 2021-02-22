@@ -1,6 +1,6 @@
 # hookshot-server
 
-Depending on [axios-concurrency](https://www.npmjs.com/package/axios-concurrency)
+Depending on [axios-concurrency](https://www.npmjs.com/package/axios-concurrency), [axios-retry](https://www.npmjs.com/package/axios-retry)
 
 ### Clients
 - Axios Plugin
