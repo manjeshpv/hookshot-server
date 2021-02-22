@@ -26,6 +26,10 @@ uuid will be generated
   - support for in-memory, file storage, redis, rabbitmq, AWS SQS
 6. Vendor Lockin
 
+## Features:
+-  JSON Rules to filter events at subscribers
+-  JSON Transformermation Pipeline
+
 ### Usage
 Open source event ingestion and dispatch server with minimal design to handle scale and simplicity with cost efficiency
 
