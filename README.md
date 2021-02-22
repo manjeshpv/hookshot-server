@@ -1,5 +1,7 @@
 # hookshot-server
 
+Depending on [axios-concurrency](https://www.npmjs.com/package/axios-concurrency)
+
 ### Clients
 - Axios Plugin
 - Guzzle plugin
