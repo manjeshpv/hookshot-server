@@ -5,7 +5,9 @@ Depending on [axios-concurrency](https://www.npmjs.com/package/axios-concurrency
 ### Clients
 - Axios Plugin
 - Guzzle plugin
-- 
+
+# Research
+- https://slack.engineering/scaling-slacks-job-queue/
 
 ### Related Projects
 - https://github.com/realadeel/awesome-webhooks
