@@ -42,6 +42,8 @@ uuid will be generated
   - support for in-memory, file storage, redis, rabbitmq, AWS SQS
 6. Vendor Lockin
 
+
+
 ## Features:
 -  JSON Rules to filter events at subscribers
 -  JSON Transformermation Pipeline
@@ -54,6 +56,12 @@ Open source event ingestion and dispatch server with minimal design to handle sc
 - Generic Events - coded in nodejs
 - Integration Events - added in mysql
 - Scheduled/Cron Events - coded in nodejs, logs will be written in logboard
+
+####  Input
+- AWS credentials for SQS Queue creation
+- MySQL/Postgres connection string for storing Integration events with enriched data
+- LOGBOARD_DSN for api  req/res logging
+
 
 ## Architecture
 by [Hookdeck](https://hookdeck.io/)
