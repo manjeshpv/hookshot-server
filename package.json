@@ -1,0 +1,21 @@
+{
+  "name": "hookshot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "amqplib": "^0.7.1",
+    "aws-sdk": "^2.903.0",
+    "axios": "^0.21.1",
+    "better-queue": "^3.8.10",
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "request": "^2.88.2",
+    "when": "^3.7.8"
+  }
+}
